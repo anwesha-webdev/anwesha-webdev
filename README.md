@@ -1,141 +1,144 @@
-# Hey, I'm Anwesha 👋
+# 👋 Hey, I'm Anwesha!
 
-### B.Tech AI/ML Student | Web Developer | DSA Learner
+### 🎓 B.Tech AI/ML Student | 💻 Web Developer | 🤖 AI/ML Enthusiast | 🚀 Future Software Engineer
 
-I'm a B.Tech student specializing in **Artificial Intelligence & Machine Learning**, currently building my skills in **Web Development, Java, DSA, and AI/ML**.
+I'm a B.Tech student specializing in **Artificial Intelligence & Machine Learning**,
+currently building my skills in **Java, DSA, Web Development, AI/ML and Backend Development**.
 
-I enjoy turning what I learn into projects and documenting my progress along the way.
+I love learning by **building projects, solving problems and gaining real-world experience**. 💡✨
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🗺️ My B.Tech Journey — 2024 → 2028
 
-* 🧠 Learning **Data Structures & Algorithms in Java**
-* 💻 Building projects with **HTML, CSS, JavaScript & React**
-* 🌐 Learning **Backend Development with Node.js**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🧩 Solving **LeetCode problems** and improving my problem-solving skills
-* 📚 Building a stronger portfolio through projects and internships
+| 🎓 Year | 🚀 Phase | 🎯 Focus |
+|---|---|---|
+| 🌱 **2024** | **Foundation** | 💻 Programming Basics • 🌐 Web Development • 🧠 Computer Fundamentals |
+| 🚀 **2025** | **Build & Explore** | 🌐 Web Development • 💼 Internships • 🛠️ Projects • Git & GitHub |
+| 🧩 **2026** | **DSA & Skill Building** | ☕ Java • 🧩 DSA • 💻 LeetCode • ⚙️ Backend • 🤖 AI/ML |
+| 🔥 **2027** | **Advanced & Placement Prep** | 🧠 Advanced DSA • 🤖 AI/ML Projects • 💼 Internships • 🎯 Interview Preparation |
+| 🏆 **2028** | **Placement & Launch** | 🎯 Placements • 💼 Full-Time Role • 🚀 Software/AI Career |
 
 ---
 
 ## 🛠️ Tech I'm Learning
 
-### Languages
+### 💻 Programming & Development
 
-`Java` `JavaScript` `HTML` `CSS`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Web Development
+### 🧠 AI / ML & Data
 
-`React` `Node.js` `Express.js`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### AI / ML
+### 🧩 DSA & Problem Solving
 
-`Python` `NumPy` `Pandas`
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Java](https://img.shields.io/badge/DSA%20in%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Tools
+### 🔧 Tools
 
-`Git` `GitHub` `VS Code`
-
----
-
-## 💻 Featured Projects
-
-| Project                    | Technologies          | Description                           |
-| -------------------------- | --------------------- | ------------------------------------- |
-| 📝 Trinethra Text Analyzer | HTML, CSS, JavaScript | A web-based text analysis application |
-| 🧮 Calculator              | HTML, CSS, JavaScript | Simple interactive calculator         |
-| 🎮 Rock Paper Scissors     | HTML, CSS, JavaScript | Browser-based interactive game        |
-| 🌐 Portfolio Website       | HTML, CSS, JavaScript | Personal portfolio showcasing my work |
-
-> 🚧 More projects are currently in progress.
-
----
-
-## 🧠 DSA Progress
-
-Currently solving problems on **LeetCode** using Java.
-
-### Topics I'm working through
-
-* ✅ Basic Java Logic
-* ✅ Patterns
-* ✅ Arrays
-* ✅ Strings
-* ✅ Searching
-* ✅ Sorting
-* 🔄 Recursion
-* 🔄 Linked Lists
-* 🔜 Stack & Queue
-* 🔜 Trees
-* 🔜 Graphs
-* 🔜 Dynamic Programming
-
-My goal is to build strong problem-solving fundamentals by consistently solving problems rather than simply memorizing solutions.
-
----
-
-## 🗺️ My Learning Roadmap
-
-| Stage              | Focus                                          |
-| ------------------ | ---------------------------------------------- |
-| 🟢 Foundation      | Java, Web Development, Git & GitHub            |
-| 🔵 Problem Solving | DSA & LeetCode                                 |
-| 🟡 Development     | React, Node.js & Backend                       |
-| 🟠 AI/ML           | Machine Learning & Data Science                |
-| 🔴 Projects        | Building and deploying real-world applications |
-| 🏆 Goal            | Become a strong software/AI engineer           |
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-### Web Development Internships
+🌐 **Web Development Intern — CodeSoft**
 
-* 🌐 **CodeSoft** — Web Development Internship
-* 🌐 **InAmigos Foundation** — Web Development Internship
+🌐 **Web Development Intern — InAmigos Foundation**
 
-During my internships, I worked on web development tasks and built practical projects while gaining experience with real development workflows.
+✨ Currently looking for opportunities to gain more real-world software development experience.
 
 ---
 
-## 📊 GitHub Journey
+## 🚀 Projects
 
-I believe in **learning in public**.
+| 📌 Project | 🛠️ Technologies |
+|---|---|
+| 🌐 **Portfolio Website** | HTML • CSS • JavaScript |
+| 🧮 **Calculator** | HTML • CSS • JavaScript |
+| 🎮 **Rock Paper Scissors** | HTML • CSS • JavaScript |
+| 📝 **Trinethra Text Analyzer** | JavaScript |
+| 🧩 **LeetCode Practice** | Java • DSA |
 
-This profile is a record of my journey — from solving my first DSA problems to building larger projects and developing industry-ready skills.
+---
 
-```text
-Learn → Build → Solve → Document → Improve
-```
+## 🧩 DSA Progress
+
+🚀 Currently solving **DSA problems in Java**.
+
+📚 Topics I'm working through:
+
+- 🔢 Arrays
+- 🔤 Strings
+- 🔍 Searching
+- 🔄 Sorting
+- 🔗 Linked Lists
+- 🔁 Recursion
+- 🧠 Backtracking
+- 🌳 Trees
+- 📊 Hashing
+- 🕸️ Graphs
+- 💡 Dynamic Programming
+
+🎯 **Goal:** Become strong enough to confidently solve coding interview problems.
 
 ---
 
 ## 🎯 2026 Goals
 
-* [ ] Become confident in Java DSA
-* [ ] Solve 200+ LeetCode problems
-* [ ] Build strong full-stack projects
-* [ ] Improve backend development skills
-* [ ] Build meaningful AI/ML projects
-* [ ] Complete more internships
-* [ ] Contribute to open source
-* [ ] Build a strong placement-ready portfolio
+☕ Master **Java**
+
+🧩 Build strong **DSA fundamentals**
+
+💻 Solve problems consistently on **LeetCode**
+
+⚙️ Learn **Backend Development**
+
+🤖 Strengthen **AI/ML fundamentals**
+
+🚀 Build more real-world projects
+
+💼 Get a strong internship
+
+📈 Build a better GitHub profile
 
 ---
 
-## 🤝 Let's Connect
+## 📊 My Coding Journey
 
-I'm always interested in connecting with students, developers, builders and people working on interesting projects.
-
-**LinkedIn:** [YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/anwesha-bhattacharjee-958891329/)
-
-**Portfolio:** [YOUR_PORTFOLIO_LINK](https://github.com/anwesha-webdev/portfolio)
-
-**LeetCode:** 🔗 [LeetCode](https://leetcode.com/u/Anwesha_Bhattacharjee/)
+💻 **Started:** Web Development  
+⬇️  
+☕ **Learning:** Java  
+⬇️  
+🧩 **Practicing:** DSA + LeetCode  
+⬇️  
+⚙️ **Building:** Backend + Real-world Projects  
+⬇️  
+🤖 **Exploring:** AI/ML  
+⬇️  
+🎯 **Goal:** Software Engineering Career 🚀
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 🔗 Connect With Me
 
-> *Learning something new every day and building one project at a time.*
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anwesha-webdev)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anwesha_Bhattacharjee/)
+
+---
+
+### 🌱 "Learning → Building → Failing → Improving → Growing 🚀"
+
+⭐ Thanks for visiting my profile!
