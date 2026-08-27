@@ -137,6 +137,11 @@ I love learning by **building projects, solving problems and gaining real-world 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anwesha_Bhattacharjee/)
 
+## 🔗 Connect with me
+
+- 💼 [LinkedIn][(YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/anwesha-bhattacharjee-958891329/)
+- 🌐 [Portfolio][(YOUR_PORTFOLIO_URL)](https://github.com/anwesha-webdev/portfolio)
+- 💻 [GitHub][(https://github.com/anwesha-webdev)](https://github.com/anwesha-webdev?tab=repositories)
 ---
 
 ### 🌱 "Learning → Building → Failing → Improving → Growing 🚀"
